@@ -151,5 +151,5 @@ All 17 tests run offline using saved HTML fixtures — no network required.
 
 ## Author
 
-**Daniel Dobos** — Python developer based in Seville, Spain.  
-Available for freelance scraping, data extraction, and automation projects.
+**Daniel Dobos** — Python student based in Seville, Spain.  
+Open to entry-level freelance projects in data cleaning, web scraping, and automation.
